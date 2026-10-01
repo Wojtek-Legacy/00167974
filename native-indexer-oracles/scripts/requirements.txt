@@ -119,7 +119,7 @@ toolz==1.0.0
 tvm-valuetypes==0.0.12
 types-six==1.17.0.20241205
 typing_extensions==4.13.2
-urllib3==2.7.0  # CVE-2026-44432, CVE-2026-44431
+urllib3==2.8.0  # CVE-2026-44432, CVE-2026-44431
 varint==1.0.2
 waiter==1.5
 waitress==3.0.2
