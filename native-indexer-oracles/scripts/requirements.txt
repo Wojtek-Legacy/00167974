@@ -125,7 +125,7 @@ waiter==1.5
 waitress==3.0.2
 web3==6.20.4
 websockets==13.1
-Werkzeug==3.1.6
+Werkzeug==3.1.9
 jaraco.context==6.1.2
 wheel==0.46.3
 xrpl-py==4.5.0
