@@ -17,7 +17,7 @@ bitcoin-utils==0.7.3
 blinker==1.9.0
 cached-property==2.0.1
 cbor2==5.9.0
-certifi==2024.8.30
+certifi==2026.10.19
 cffi==2.0.0
 charset-normalizer==2.0.12
 ckzg==1.0.2
